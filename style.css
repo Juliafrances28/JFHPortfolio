@@ -1,5 +1,10 @@
-body {
-  background-color: lightgray;
+.Header {
+  color: Black;
+  text-align: center;
+}
+
+.body {
+  background-color: white;
 }
 
 /* This property is referenced in initial div tag. it is for the homepage concerning the two photos. */
@@ -70,8 +75,19 @@ body {
   float: right;
 }
 
+H1 {
+  text-align: center;
+  text-emphasis-style: bold;
+}
+
 /* This is for the Footer */
 * .Footer {
   text-align: center;
   text-emphasis-style: bold;
+  font-size: 26px;
 }
+
+/* .Row {
+  text-emphasis-style: bold;
+  text-align: center;
+} */
