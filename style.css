@@ -33,12 +33,16 @@
 
 /* Styling for the ul list concerning the icons */
 
-.icon ul {
-  list-style: none;
-}
 .icon li {
   display: inline;
+
 }
+
+.ftco-footer-social li {
+  list-style: none;
+  margin: 0 10px 10px 0;
+  display: inline-block;
+  size: 60px;
 
 /* This property references the images in the portfolio page */
 .project {
@@ -86,6 +90,9 @@ H1 {
   text-emphasis-style: bold;
   font-size: 26px;
 }
+
+
+
 
 /* .Row {
   text-emphasis-style: bold;
